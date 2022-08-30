@@ -1,3 +1,3 @@
 # Easy-Image-Editor
 
-<img src="image-placeholder.svg" alt="preview-img" />
+<img src="result.png" alt="preview-img" />
